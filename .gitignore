@@ -1,0 +1,13 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output
+dist/
+
+# Ignore temporary files created by editors
+.vscode/
+.idea/
+
+# Ignore any sensitive or environment-specific files
+.env
+config.json
